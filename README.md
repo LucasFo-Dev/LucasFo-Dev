@@ -67,6 +67,13 @@
 
 ---
 
+### 🌐 Infraestrutura • Redes • Cloud
+<div>
+  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+</div>
+
+---
+
 ### ⚙️ DevOps & Deploy
 <div>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
