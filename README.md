@@ -15,22 +15,18 @@
 
 ---
 
-## 💼 Experiência Profissional
-
-### 🏦 C6 Bank  
+## 🏦 C6 Bank  
 **Estagiário – Crédito & Analytics**  
-📍 São Paulo - SP | 📅 Ago/2024 – Ago/2025 | 🔁 Modalidade: Híbrido  
+📍 São Paulo - SP | 📅 Ago/2024 – Atual | 🔁 Modalidade: Presencial  
 
-**Atividades:**
-- Gestão de custos: apuração de resultados e acompanhamento real x orçado  
-- Análise de produtos e carteiras: estudos de custo vs volumetria  
-- Segmentação de despesas e geração de P&L (custos e receitas)  
-- Análise de custos das áreas de suporte e finanças  
-- Suporte analítico ao time de negócios e finanças  
-- Apoio à tomada de decisão baseada em dados  
-
-**Carga horária:** 30h semanais  
-**Área:** Crédito & Analytics  
+### 🔹 Atividades
+- 📊 Análises e estudos de custos, produtos e carteiras com **BigQuery**  
+- 📈 Dashboards e relatórios estratégicos no **Power BI**  
+- ⚙️ Automações de processos com **Power Automate**  
+- 🧮 Soluções analíticas e automações em **VBA**  
+- 💰 Gestão de custos (real x orçado) e geração de **P&L**  
+- 🤝 Suporte analítico às áreas de negócios e finanças  
+- 🧠 Apoio à tomada de decisão baseada em dados
 
 ---
 
