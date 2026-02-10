@@ -1,8 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=140&section=header&text=Lucas%20Ferreira&fontSize=42&fontColor=ffffff&fontWeight=700"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=140&section=header&fontSize=42&fontColor=ffffff&fontWeight=700"/>
 
-<p align="center">
-  Estudante de Sistemas de Informação na FIAP | Estagiário em Crédito & Analytics no C6 Bank | Desenvolvedor Full Stack em formação | Dados, BI e tecnologia aplicada a negócios.
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3b82f6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luis+Carlos;Estudante+de+Sistemas+de+Informação+na+FIAP;Seja+bem-vindo!)
 
 ---
 
