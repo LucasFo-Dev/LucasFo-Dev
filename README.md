@@ -5,8 +5,7 @@
 <div>
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=LucasFo-Dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=580fcb&text_color=fff&icon_color=580fcb&cache_seconds=7200" height="190em"/>
  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFo-Dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=580fcb&text_color=fff&cache_seconds=7200&hide=Jupyter%20Notebook" height="190em"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFo-Dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=f92022&text_color=fff&cache_seconds=7200" height="190em"/> -->
-
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFo-Dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=f92022&text_color=fff&cache_seconds=7200" height="190em"/> -->
 </div>
 
 <h3>:rocket: &nbsp;Skills</h3><br/>
@@ -28,9 +27,18 @@
  <img src="https://img.shields.io/badge/MySQL-003791?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
- 
- 
 </div>
+
+<br/>
+
+<h3>Data & BI</h3>
+
+<div>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white">
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</div>
+
 <br/>
 
 <h3>Utils</h3>
@@ -39,6 +47,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
 </div>
+
 <br/>
 
 <h3>DevOps</h3>
@@ -49,6 +58,7 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
+
 <br/>
 
 <h3>Dev Tools</h3>
@@ -62,16 +72,21 @@
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </div>
 
-  
+<br/>
+
 <h3>Find me!</h3>
+
 <div>
-  <a href="https://www.instagram.com/_lucasdd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-ferreira-de-oliveira-3510252b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/_lucasdd/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-ferreira-de-oliveira-3510252b0/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/LucasFo-Dev/LucasFo-Dev/output/snake.svg" alt="Snake animation" />
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580fcb&height=120&section=footer"/>
