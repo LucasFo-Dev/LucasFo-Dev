@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580fcb&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=580fcb&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Ferreira;Estudante+de+Sistemas+de+Informação+na+FIAP;Desenvolvedor+Full+Stack+em+formação;Seja+bem-vindo+ao+meu+GitHub!)
 
