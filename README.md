@@ -45,7 +45,7 @@
     align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFo-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFo-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20&card_width=350"
   />
 </p>
 
