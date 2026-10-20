@@ -64,12 +64,6 @@ Ingresso no banco como **estagiário em Crédito & Analytics**; atualmente, atua
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
 </div>
 
-- **Intermediário:** Java, Kotlin, Dart, JavaScript, HTML5, CSS3, Flutter e Jetpack Compose.
-- **Fundamentos intermediários:** orientação a objetos e estruturas de dados.
-- **Básico em back-end:** Python, Spring Boot, Spring Data JPA, Hibernate e APIs REST.
-- **Básico em web e mobile:** Bootstrap, Tailwind CSS, Chart.js, MVVM, Retrofit/Gson, JSON, Coroutines e StateFlow.
-- **Práticas acadêmicas:** arquitetura em camadas, consumo de APIs, navegação entre telas, gerenciamento de estado e documentação técnica.
-
 ---
 
 ### 🗄️ Bancos de Dados
@@ -81,9 +75,6 @@ Ingresso no banco como **estagiário em Crédito & Analytics**; atualmente, atua
   <img src="https://img.shields.io/badge/JDBC-EA2D2E?style=for-the-badge">
 </div>
 
-- **Intermediário:** Oracle, modelagem relacional, SQL/DDL, JDBC e padrão DAO.
-- **Conhecimentos:** chaves primárias e estrangeiras, relacionamentos, restrições de integridade e consultas parametrizadas.
-
 ---
 
 ### 📊 Data • BI • Automação
@@ -92,20 +83,13 @@ Ingresso no banco como **estagiário em Crédito & Analytics**; atualmente, atua
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white">
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white">
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img alt="VBA — Intermediário" src="https://img.shields.io/badge/VBA-Intermedi%C3%A1rio-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge">
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge">
   <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge">
   <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white">
 </div>
-
-- **Intermediário:** SQL/BigQuery, Power BI, DAX, Excel, Power Query/M e Power Automate.
-- **Avançado:** VBA.
-- **Básico:** Looker.
-- **BigQuery:** CTEs, joins, funções analíticas, QUALIFY, arrays e manipulação de datas.
-- **Conhecimentos em BigQuery:** scripting, SQL dinâmico e INFORMATION_SCHEMA.
-- **BI e preparação de dados:** esquema estrela, camada semântica, contexto de filtro, KPIs, segmentações, tabelas dinâmicas e tratamento de bases CSV/XML.
 
 ---
 
@@ -117,9 +101,6 @@ Ingresso no banco como **estagiário em Crédito & Analytics**; atualmente, atua
   <img src="https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloudstorage&logoColor=white">
 </div>
 
-- **Básico:** Google Cloud Platform (GCP), Google Cloud Storage (GCS) e Cisco Packet Tracer.
-- **Fundamentos de redes:** IPv4, CIDR/VLSM, NAT, DHCP e DNS.
-
 ---
 
 ### ⚙️ DevOps & Deploy
@@ -129,9 +110,6 @@ Ingresso no banco como **estagiário em Crédito & Analytics**; atualmente, atua
   <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </div>
-
-- **Básico:** Git e GitHub.
-- **Conhecimento complementar:** Vercel.
 
 ---
 
@@ -151,9 +129,6 @@ Ingresso no banco como **estagiário em Crédito & Analytics**; atualmente, atua
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 </div>
-
-- **Conhecimentos básicos:** Oracle SQL Developer Data Modeler, Maven e Gradle.
-- **Robótica acadêmica:** noções básicas de Arduino, sensores e motores.
 
 ---
 
